@@ -10,7 +10,7 @@
 -->
 
 <head>
-<title>PHP on Kubernetes</title>
+<title>PHP on Kubernetes through docker cloud</title>
 <style>
 body  { background-color: #707070;
         color:            #600000; }
